@@ -1,0 +1,5 @@
+{
+  "name": "Weather MCP Server",
+  "description": "Fetches current weather data for a given city",
+  "version": "1.0.0"
+}
